@@ -11,8 +11,8 @@ This repository (`Stride`) now serves exclusively as a historical redirection ga
 
 Please update your bookmarks, dependencies, and citations to point to our new permanent homes:
 
-*   💻 **Active Code Repository:** [xtyangpsp/Stride/)](https://github.com/xtyangpsp/Stride)
-*   🌐 **Live HTML Web App:** [xtyangpsp.github.io/StepMark](https://xtyangpsp.github.io/stepmark)
+*   💻 **Active Code Repository:** [xtyangpsp/Stride](https://github.com/xtyangpsp/Stride)
+*   🌐 **Live HTML Web App:** [xtyangpsp.github.io/StepMark](https://xtyangpsp.github.io/StepMark)
 
 ---
 
